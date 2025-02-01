@@ -1,9 +1,9 @@
 # Inferno Interactive 🚀
 
-Welcome to **Inferno Interactive**! We are the creators of the **Inferno Engine**, a cutting-edge 3D game engine designed to provide developers with the tools they need to create immersive, high-performance games. (in Alpha, not yet public)
+Welcome to **Inferno Interactive**! We are the creators of the **Zypher Engine**, a cutting-edge 3D game engine designed to provide developers with the tools they need to create immersive, high-performance games. (in Alpha, not yet public)
 
-## The Inferno Engine 🔥  
-The **Inferno Engine** is built with a focus on:  
+## The Zypher Engine 🔥  
+The **Zypher Engine** is built with a focus on:  
 - **Performance:** Highly optimized to ensure smooth gameplay and efficient resource usage.  
 - **Flexibility:** Designed to adapt to various game genres and developer workflows.  
 - **Scalability:** Whether you're building a small indie project or a large-scale AAA title, the engine grows with your needs.  
@@ -15,13 +15,13 @@ The **Inferno Engine** is built with a focus on:
 - **Cross-Platform Support:** Build games for multiple platforms with ease.  
 - **Optimized for Performance:** Every part of the engine is fine-tuned for speed and efficiency.  
 
-### Why Choose the Inferno Engine?  
-The Inferno Engine is more than just a tool—it’s a foundation for building the games of tomorrow. By prioritizing optimization and developer-centric design, we ensure that you have everything you need to bring your ideas to life.  
+### Why Choose the Zypher Engine?  
+The Zypher Engine is more than just a tool—it’s a foundation for building the games of tomorrow. By prioritizing optimization and developer-centric design, we ensure that you have everything you need to bring your ideas to life.  
 
 ## License 📜  
-The **Inferno Engine** is not licensed under GPL or any other standard open-source license. Instead, it uses the **Inferno Engine License**, a custom license designed to provide developers with freedom while maintaining the integrity of the project.  
+The **Zypher Engine** is not licensed under GPL or any other standard open-source license. Instead, it uses the **Zypher License**, a custom license designed to provide developers with freedom while maintaining the integrity of the project.  
 
 For more details, please review the license included in this repository.  
 
 ---  
-Explore the Inferno Engine and join us in shaping the future of game development!  
+Explore the Zypher Engine and join us in shaping the future of game development!  
